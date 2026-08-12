@@ -1,0 +1,6 @@
+{
+  "name": "Cubo de Rubik NxN",
+  "description": "Simulador interactivo de Cubo de Rubik 3D con tamaños desde 2x2 hasta 100x100, giros táctiles y por clic, mezclador, cronómetro y estadísticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
